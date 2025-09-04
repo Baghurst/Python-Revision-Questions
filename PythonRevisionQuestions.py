@@ -15,10 +15,11 @@ if n % 2 == 0:
 else:           
     median = numbers[n//2]
 
-
+#I'm a bit stuck, not sure how to get frequency
 
 print("Numbers entered:", numbers)
 print("Mean:", mean)
 print("Median:", median)
 print("Frequency:", )
+
 print("Mode:", )
